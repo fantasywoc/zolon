@@ -1,5 +1,4 @@
-title: Jekyll Netlify CMS
-email: your-email@example.com
+
 
 baseurl: "/fantasywoc.github.io" # the subpath of your site, e.g. /blog
 url: "https://fantasywoc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
