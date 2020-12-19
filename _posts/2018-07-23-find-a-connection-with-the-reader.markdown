@@ -1,51 +1,134 @@
 ---
 layout: post
-title:  Find a connection with the reader
+title:  三毛：我不求深刻只求简单
 date:   2018-07-24 15:01:35 +0300
 image:  02.jpg
 tags:   Resources
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 
-## Are you crazy? I can't swallow that.
+许多时候，我们早已不去回想，当每一个人来到地球上时，只是一个赤裸的婴儿，除了躯体和灵魂，上苍没有让人类带来什么身外之物。
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
 
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 
-### Why not indeed!
+等到有一天，人去了，去的仍是来的样子，空空如也。这只是样子而已。事实上，死去的人，在世上总也留下了一些东西，有形的，无形的，充斥着这本来已是拥挤的空间。
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
 
-* Shinier than yours, meatbag.
-* This is the worst part. The calm before the battle.
-* Ooh, name it after me!
 
-Say what? Throw her in the brig. Hey, you add a one and two zeros to that or we walk! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Ow, my spirit! Who's brave enough to fly into something we all keep calling a death sphere?
+曾几何时，我们不再是婴儿，那份记忆也遥远得如同前生。回首看一看，我们普普通通地活了半生，周围已引出了多少牵绊，伸手所及，又有多少带不去的东西成了生活的一部分，缺了它们，日子便不完整。
 
-Hey, you add a one and two zeros to that or we walk! You won't have time for sleeping, soldier, not with all the bed making you'll be doing. It's okay, Bender. I like cooking too. Hey, what kinda party is this? There's no booze and only one hooker.
 
-![]({{ site.baseurl }}/images/07.jpg)
-*Minimalism*
 
-Ummm…to eBay? But I know you in the future. I cleaned your poop. I'm just glad my fat, ugly mama isn't alive to see this day. My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
+许多人说，身体形式都不重要，境由心造，一念之间可以一花一世界，一沙一天堂。
 
-Your best is an idiot! Fry, you can't just sit here in the dark listening to classical music. And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it!
 
-You, a bobsleder!? That I'd like to see! I'm Santa Claus! There's no part of that sentence I didn't like! Noooooo! I can explain. It's very valuable.
 
-I'm Santa Claus! Is the Space Pope reptilian!? Who's brave enough to fly into something we all keep calling a death sphere? I had more, but you go ahead.
+这是不错的，可是在我们那么复杂拥挤的环境里，你的心灵看见过花吗？只一朵，你看见过吗？我问你的，只是一朵简单的非洲菊，你看见过吗？我甚而不问你玫瑰。
 
-It doesn't look so shiny to me. Kif might! You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus? Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.
 
-Check it out, y'all. Everyone who was invited is here. Anyone who laughs is a communist! You're going to do his laundry? Michelle, I don't regret this, but I both rue and lament it.
 
-Bender, we're trying our best. I daresay that Fry has discovered the smelliest object in the known universe! Oh, you're a dollar naughtier than most. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
+不了，我们不再谈沙和花朵，简单的东西是最不易看见的，那么我们只看看复杂的吧！
 
-You, a bobsleder!? That I'd like to see! No! The kind with looting and maybe starting a few fires! Good news, everyone! There's a report on TV with some very bad news! When I was first asked to make a film about my nephew, Hubert Farnsworth, I thought "Why should I?" Then later, Leela made the film. But if I did make it, you can bet there would have been more topless women on motorcycles. Roll film!
 
-Eeeee! Now say "nuclear wessels"! Why did you bring us here? Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." That's the ONLY thing about being a slave.
+
+唉，连这个，我也不想提笔写了。
+
+
+
+
+
+
+
+在这样的时代里，人们崇拜神童，没有童年的儿童，才进得了那窄门。人类往往少年老成，青年迷茫，中年喜欢将别人的成就与自己相比较，因而觉得受挫，好不容易活到老年仍是一个没有成长的笨孩子。
+
+
+
+我们一直粗糙地活着，而人的一生，便也这样过去了。我们一生复杂，一生追求，总觉得幸福的遥不可企及。不知那朵花啊，那粒小小的沙子，便在你的窗台上。你那么无事忙，当然看不见了。对于复杂的生活，人们怨天怨地，却不肯简化。心为形役也是自然，哪一种形又使人的心被役得更自由呢？
+
+
+
+我们不肯放弃，我们忙了自己，还去忙别人。过分的关心，便是多管闲事，当别人拒绝我们的时候，我们受了伤害，却不知这份没趣，实在是自找的。
+
+
+
+对于这样的生活，我们往往找到一个美丽的代名词，叫做“深刻”。简单的人，社会也有一个形容词，说他们是笨的。一切单纯的东西，都成了不好的。
+
+
+
+恰好我又远离了家国。到大西洋的海岛上来过一个笨人的日子，就如过去许多年的日子一样。
+
+
+
+在这儿，没有大鱼大肉，没有争名夺利，没有过分的情，没有载不动的愁，没有口舌是非，更没有解不开的结。
+
+
+
+也许有其他的笨人，比我笨得复杂的，会说：你是幸运的，不是每个人都有一片大西洋的岛屿。唉，你要来吗？你忘了自己窗台上的那朵花了。怎么老是看不见呢？
+
+
+
+你不带花来，这儿仍是什么也没有的。你又何必来？你的花不在这里，你的窗，在你心里，不在大西洋啊！
+
+
+
+一个生命，不止是有了太阳、空气、水便能安然的生存，那只是最基本的。求生的欲望其实单纯，可是我们是人类，是一种贪得无厌的生物，在解决了饥饿之后，我们要求进步，有了进步之后，要求更进步，有了物质的享受之后，又要求精神的提升。
+
+
+
+
+
+
+
+我们追求幸福、快乐、和谐、富有、健康，甚而永生。最初的人类如同地球上漫游野地的其他动物，在大自然的环境里辛苦挣扎，只求存活。而后因为自然现象的发展，使他们组成了部落，成立了家庭。多少万年之后，国与国之间划清了界限，民与民之间，忘了彼此都只不过是人类。
+
+
+
+邻居和自己之间，筑起了高墙，我们居住在他人看不见的屋顶和墙内，才感到安全自在。
+
+
+
+__人又耐不住寂寞，不可能离群索居，于是我们需要社会，需要其他的人和物来建立自己的生命。我们不肯节制，不懂收敛，泛滥情感，复杂生活起居。到头来，“成功”只是“拥有”的代名词。我们变得沉重，因为担负得太多，不敢放下。__
+
+
+
+当婴儿离开母体时，象征着一个躯体的成熟。可是婴儿不知道，他因着脱离了温暖潮湿的子宫觉得惧怕，接着在哭。人与人的分离，是自然现象，可是我们不愿。
+
+
+
+我们由人而来，便喜欢再回到人群里去。明知生是个体，死是个体，但是我们不肯探索自己本身的价值，我们过分看重他人在自己生命里的参与。于是，孤独不再美好，失去了他人，我们惶惑不安。
+
+
+
+其实，这也是自然。于是，人类顺其自然的受捆绑，衣食住行永无宁日的复杂，人际关系日复一日的纠缠，头脑越变越大，四肢越来越退化，健康丧失，心灵蒙尘。快乐，只是国王的新衣，只有聪明的人才看得见。
+
+
+
+童话里，不是每个人都看见了那件新衣，只除了一个说真话的小孩子。我们不再怀念稻米单纯的丰美，也不认识蔬菜的清香。我们不知四肢是用来活动的，也不明白，穿衣服只是使我们免于受冻。
+
+
+
+灵魂，在这一切的拘束下，不再明净。感官，退化到只有五种。如果有一个人，能够感应到其他的人已经麻木的自然现象，其他的人不但不信，而且好笑。
+
+
+
+每一个人都说，在这个时代里，我们不再自然。每一个人又说，我们要求的只是那一点心灵的舒服，对于生命，要求的并不高。
+
+
+
+这是，我们同时想摘星。我们不肯舍下那么重的负担，那么多柔软又坚韧的纲，却抱怨人生的劳苦愁烦。不知自己便是住在一颗星球上，为何看不见它的光芒呢？
+
+
+
+这里，对于一个简单的笨人，是合适的。对不简单的笨人，就不好了。我只是返璞归真，感到的，也只是早晨醒来时没有那么深的计算和迷茫。
+
+
+
+我不吃油腻的东西，我不过饱，这使我的身体清洁。我不做不可及的梦，这使我的睡眠安恬。我不穿高跟鞋折磨我的脚，这使我的步子更加悠闲安稳。我不跟潮流走，这使我的衣服永远长新，我不耻于活动四肢，这使我健康敏捷。
+
+
+
+我避开无事时过分热络的友谊，这使我少些负担和承诺。我不多说无谓的闲言，这使我觉得清畅。我尽可能不去缅怀往事，因为来时的路不可能回头。我当心地去爱别人，因为比较不会泛滥。我爱哭的时候便哭，想笑的时候便笑，只要这一切出于自然。我不求深刻，只求简单。
+
+
+
+- END -

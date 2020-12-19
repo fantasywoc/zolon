@@ -2,7 +2,7 @@
 # General Site Settings
 title: Fantasy
 logo: logo.svg # You can add own logo.
-description: fantasy is modern minimal theme for Jekyll
+description: Not deep, just simple
 
 
 #-------------------------------
@@ -11,7 +11,7 @@ author:
   name: fantasy
   image: 01.jpg
   say-hello: Hello, I’m <strong>Fantasy</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  bio: 我避开无事时过分热络的友谊，这使我少些负担和承诺。我不多说无谓的闲言，这使我觉得清畅。我尽量不去缅怀往事，  因为来时的路不可能回头。<a href="#">我想哭的时候也许哭不出来，但想笑的时</a>候一定会笑，<a href="#">只要这一切出于自然。我不求深刻，只求简单。</a>Loves <a href="#">music</a> & <a href="#"><a href="#">make blind and disorderly conjectures</a></a>.
 
 
 #-------------------------------
@@ -25,7 +25,7 @@ pinterest: https://fantasywoc.github.io/ # Add your Pinterest handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+#disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -36,9 +36,9 @@ instagram-profile: artemsheludko_ # Add instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+#google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
